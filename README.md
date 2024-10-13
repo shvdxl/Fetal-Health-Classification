@@ -11,3 +11,5 @@ techniques using Python programming language to achieve high accuracy. Having a 
 journey with pregnancy will be easy with this model which will predict the fetal health state 
 and assist to decrease the number of fetal’ s and maternal’ s mortality, whether in developing 
 or developed countries. 
+
+The dataset's URL is: https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
